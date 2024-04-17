@@ -1,0 +1,8 @@
+name: GuiAPI
+main: io.github.bindglam.guiapi.GuiAPI
+version: 1.0
+api-version: 1.20
+depend: [MCKotlin-Paper]
+commands:
+  test-gui:
+    permission: op
